@@ -1,1 +1,1 @@
-# OS-template
+Anything and everything related to OS and its templating.
